@@ -36,5 +36,3 @@ cacheSolve <- function(x = matrix(), ...) {
   x$setinvs(m)
   m
 }
-Status API Training Shop Blog About Pricing
-© 2016 GitHub, Inc. Terms Privacy Security Contact Help
